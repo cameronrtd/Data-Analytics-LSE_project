@@ -16,7 +16,7 @@ Ensuring data has no null values and removing redundant columns.
 ### Techniques and Models
 
 | Machine Learning Technique |            Obective             |
-----------------------------------------------------------------
+| ---------------------------------------------------------------- |
 | **Multiple Linear Regression (OLS)** | Understanding the determinants of loyalty points. |
 | **Decision Tree Regression** | Better understand loyalty drivers. |
 | **K-Means Clustering** | Customer segmentation |
