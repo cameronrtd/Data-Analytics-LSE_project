@@ -14,6 +14,7 @@ Key business objectives:
 ### Data Cleaning
 Ensuring data has no null values and removing redundant columns.
 ### Techniques and Models
+
 | Machine Learning Technique |            Obective             |
 ----------------------------------------------------------------
 | **Multiple Linear Regression (OLS)** | Understanding the determinants of loyalty points. |
